@@ -1,0 +1,6 @@
+Hello World! 
+
+
+How are you?
+
+In this files I build a litle comunication TCP with client using tools of core Node
